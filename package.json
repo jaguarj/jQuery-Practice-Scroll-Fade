@@ -1,0 +1,19 @@
+{
+  "name": "jquery-practice-scroll-fade",
+  "version": "1.0.0",
+  "description": "Scroll Fade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaguarj/jQuery-Practice-Scroll-Fade.git"
+  },
+  "author": "Josh Seipel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaguarj/jQuery-Practice-Scroll-Fade/issues"
+  },
+  "homepage": "https://github.com/jaguarj/jQuery-Practice-Scroll-Fade#readme"
+}
